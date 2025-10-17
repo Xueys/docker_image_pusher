@@ -1,6 +1,6 @@
 python:3.9.23-slim
 nginx
-mysql8
+mysql:8
 redis
 mongodb
 kafka
