@@ -5,4 +5,4 @@ redis:6.0.8
 mongo:4.4
 cp-kafka:7.3.3
 consul:1.15.4
-zookeeper:7.3.3
+zookeeper:7.3.3 
