@@ -1,1 +1,8 @@
 python:3.9.23-slim
+nginx
+mysql8
+redis
+mongodb
+kafka
+consul-server-dev
+zookeeper
